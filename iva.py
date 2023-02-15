@@ -1,6 +1,5 @@
 #Programa para calcular el precio sin IVA o con IVA dado el porcentaje de IVA
-#Este programa permite al cliente calcular el precio con Iva, introduciendo el precio sin IVA y el porcentaje de IVA
-#Además permite calcular el precio sin IVA introduciendo el precio con IVA y el porcentaje de IVA
+
 print(f"Bienvenido a Calculadora IVA")
 accion=str(input("Introducir S si desea Sumar IVA o Q si desea Quitar IVA"))
 if(accion.upper()=="S"):
