@@ -4,7 +4,7 @@
 |        |  Precio Sin IVA: 350.00  |IVA: 73.50 €               |IVA: 73.50 €                |           |
 |        |  Porcentaje de IVA: 21   |Precio con IVA: 423.50 €   |Precio con IVA: 423.50 €    |           |
 |2       |  Acción:S                |Precio sin IVA:125600.00 € |Precio sin IVA:125600.00 €  |Pass       |
-|        |  Precio Sin IVA:125600.00|IVA: 13816.00 €            ||IVA: 13816.00 €            |           |
+|        |  Precio Sin IVA:125600.00|IVA: 13816.00 €            |IVA: 13816.00 €             |           |
 |        |  Porcentaje de IVA: 11   |Precio con IVA: 139416.00 €|Precio con IVA: 139416.00 € |           |
 |3       |  Acción:S                |Precio sin IVA:86512.00 €  |Precio sin IVA:86512.00 €   |Pass       |
 |        |  Precio Sin IVA:86512.00 |IVA: 3460.48 €             |IVA: 3460.48 €              |           |
