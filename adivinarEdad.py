@@ -1,3 +1,4 @@
+#Reto programa para adivinar la edad del usuario
 #El programa adivina la edad del usuario. Para ello genera un numero aleatorio en el rango entre 1 y 120
 # le pregunta al usuario si esa es su edad.
 # si elusuario dice que sí, termina el programa, e imprime la edad del usuario y la cantidad de intentos en los que adivinó 
