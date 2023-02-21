@@ -10,19 +10,19 @@ min=1
 max=120
 x=random.randint(min,max)
 accion=input(f"Tu edad es {x} He adivinado? S/N")
-lista=[]
+#lista=[]
 contador=0
 while accion.upper()=="N":
      aux= input(f"Tu edad es mayor que {x}?  S/N")
      if aux.upper()=="S":
-        min=x
+        min=x+1
         x=random.randint(min,max)
      else:
-        max=x
+        max=x-1
         x=random.randint(min,max)
-     if(x not in lista):
-        accion=input(f"Tu edad es {x} He adivinado? S/N")
-        lista.append(x)
+     #if(x not in lista):
+     accion=input(f"Tu edad es {x} He adivinado? S/N")
+        #lista.append(x)
      contador+=1
  
 print(f"Tu edad es {x}")
