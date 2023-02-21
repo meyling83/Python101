@@ -16,10 +16,10 @@ while accion.upper()=="N":
      aux= input(f"Tu edad es mayor que {x}?  S/N")
      if aux.upper()=="S":
         min=x+1
-        x=random.randint(min,max)
      else:
         max=x-1
-        x=random.randint(min,max)
+     print(min,max)
+     x=random.randint(min,max)
      accion=input(f"Tu edad es {x} He adivinado? S/N")
      contador+=1
  
